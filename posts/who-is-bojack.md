@@ -1,4 +1,4 @@
 ---
-title: Who is Bojack?
-externalLink: https://en.wikipedia.org/wiki/BoJack_Horseman
+title: quem sou eu?
+externalLink: [https://bsky.app/profile/gabiula.bsky.social]
 ---
