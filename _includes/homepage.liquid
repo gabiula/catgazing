@@ -1,4 +1,4 @@
-timeout<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -20,7 +20,7 @@ timeout<!DOCTYPE html>
                       {% if post.data.externalLink %}
                       <a href="{{ post.data.externalLink }}" target="__blank">{{ post.data.title }}</a>
                       {% else %}
-                      <a href="catgazing/{{ post.url }}">{{ post.data.title }}</a>
+                      <a href="catgazing{{ post.url }}">{{ post.data.title }}</a>
                       {% endif %}
                   </span>
                   <span class="post-date">
